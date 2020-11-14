@@ -1,0 +1,23 @@
+{
+  "name": "board-qz",
+  "version": "1.0.0",
+  "description": "Solution of a quizz if word exists in a board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriy1teslenko/board-qz.git"
+  },
+  "keywords": [
+    "quiz",
+    "algorithm"
+  ],
+  "author": "Yuriy Teslenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriy1teslenko/board-qz/issues"
+  },
+  "homepage": "https://github.com/yuriy1teslenko/board-qz#readme"
+}
